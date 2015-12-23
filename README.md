@@ -6,4 +6,4 @@
 
 -------------------------------
 
-   # http://trouchouchou.org
+   http://trouchouchou.org
